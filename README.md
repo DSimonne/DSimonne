@@ -9,6 +9,11 @@ These project support the analysis of data collected at synchrotrons. I believe 
 ## Papers on data analysis softwares
 THORONDOR: software for fast treatment and analysis of low-energy XAS dat. Simonne, D.H., Martini, A., Signorile, M., Piovano, A., Braglia, L., Torelli, P., Borfecchia, E. & Ricchiardi, G. (2020). J. Synchrotron Rad. 27, https://doi.org/10.1107/S1600577520011388.
 
+## Zenodo DOI
+carnisj/bcdi: v0.2.1
+
+> Jerome Carnis; clatlan; David Simonne; Steven Leake; Dmitry Dzhigaev; Kadatatlu Kishore; Maxime Dupraz; DeepSource Bot; Karthikeyan Singaravelan; Marie-Ingrid Richard
+https://zenodo.org/record/5741935
 <!--
 **DSimonne/DSimonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
