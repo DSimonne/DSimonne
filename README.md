@@ -6,7 +6,7 @@ This github regroups the methods that I try to develop for interactive and user-
 
 These project support the analysis of data collected at synchrotrons. I believe that developing data analysis methods that can be used remotely on dedicated clustering resources are the future of data analysis at such facilities.
 
-# Papers on data analysis softwares
+# Peer-reviewed publications about data analysis softwares
 * Thorondor: software for fast treatment and analysis of low-energy XAS dat. Simonne, D.H., Martini, A., Signorile, M., Piovano, A., Braglia, L., Torelli, P., Borfecchia, E. & Ricchiardi, G. (2020). J. Synchrotron Rad. 27, https://doi.org/10.1107/S1600577520011388.
 
 * Gwaihir : Jupyter Notebook graphical user interface for Bragg Coherent Diffraction Imaging. Simonne, D., Carnis, J., Atlan, C., & Chatelier, C. (n.d.). 
@@ -14,8 +14,9 @@ Being submitted.
 
 Here is a link to a poster that tries to present Gwaihir: 
 [Poster_Gwaihir.pdf](https://www.dsimonne.eu/Attachments/Poster_Gwaihir.pdf)
+![Poster_Gwaihir](https://user-images.githubusercontent.com/51970962/167593309-d497b289-25ab-44fd-97ad-d8b3faa0bfd5.png)
 
-# Zenodo DOIs referencing other data analysis softwares
+# Non published data analysis softwares
 carnisj/bcdi: v0.2.1
 
 > Jerome Carnis; clatlan; David Simonne; Steven Leake; Dmitry Dzhigaev; Kadatatlu Kishore; Maxime Dupraz; DeepSource Bot; Karthikeyan Singaravelan; Marie-Ingrid Richard
@@ -23,8 +24,9 @@ https://zenodo.org/record/5741935
 
 Here is a link to a poster that tries to present the software, and most importantly, the international collaboration between different institutes: 
 [The_BCDI_collaboration_poster.pdf](https://www.dsimonne.eu/Attachments/The_BCDI_collaboration_poster.pdf)
+![The_BCDI_collaboration_poster](https://user-images.githubusercontent.com/51970962/167593321-7f8c2f69-c3ef-4b3d-80ad-6fe2366e9be2.png)
 
-# Interesting papers about data analysis
+# Interesting references
 ### Neutron and X-ray reflectivity
 * Nelson, A. R. J., & Prescott, S. W. (2019). Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, 52, 193–200. https://doi.org/10.1107/S1600576718017296
 
@@ -33,7 +35,7 @@ Here is a link to a poster that tries to present the software, and most importan
 
 * Favre-Nicolin, V., Girard, G., Leake, S., Carnis, J., Chushkin, Y., Kieffer, J., Paleo, P., & Richard, M. I. (2020). PyNX: High-performance computing toolkit for coherent X-ray imaging based on operators. Journal of Applied Crystallography, 53, 1404–1413. https://doi.org/10.1107/S1600576720010985
 
-### X-ray Absorption SPectroscopy
+### X-ray Absorption Spectroscopy
 * Martini, A., Guda, S. A., Guda, A. A., Smolentsev, G., Algasov, A., Usoltsev, O., Soldatov, M. A., Bugaev, A., Rusalev, Y., Lamberti, C., & Soldatov, A. V. (2019). PyFitit: The software for quantitative analysis of XANES spectra using machine-learning algorithms. Computer Physics Communications, xxxx, 107064. https://doi.org/10.1016/j.cpc.2019.107064
 
 <!--
