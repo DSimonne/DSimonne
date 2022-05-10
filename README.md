@@ -12,11 +12,17 @@ These project support the analysis of data collected at synchrotrons. I believe 
 * Gwaihir : Jupyter Notebook graphical user interface for Bragg Coherent Diffraction Imaging. Simonne, D., Carnis, J., Atlan, C., & Chatelier, C. (n.d.). 
 Being submitted.
 
+Here is a link to a poster that tries to present Gwaihir: 
+[Poster_Gwaihir.pdf](https://www.dsimonne.eu/Attachments/Poster_Gwaihir.pdf)
+
 # Zenodo DOIs referencing other data analysis softwares
 carnisj/bcdi: v0.2.1
 
 > Jerome Carnis; clatlan; David Simonne; Steven Leake; Dmitry Dzhigaev; Kadatatlu Kishore; Maxime Dupraz; DeepSource Bot; Karthikeyan Singaravelan; Marie-Ingrid Richard
 https://zenodo.org/record/5741935
+
+Here is a link to a poster that tries to present the software, and most importantly, the international collaboration between different institutes: 
+[The_BCDI_collaboration_poster.pdf](https://www.dsimonne.eu/Attachments/The_BCDI_collaboration_poster.pdf)
 
 # Interesting papers about data analysis
 ### Neutron and X-ray reflectivity
