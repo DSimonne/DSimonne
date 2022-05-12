@@ -14,7 +14,7 @@ Being submitted.
 
 Here is a link to a poster that tries to present Gwaihir: 
 [Poster_Gwaihir.pdf](https://www.dsimonne.eu/Attachments/Poster_Gwaihir.pdf)
-![Poster_Gwaihir](https://user-images.githubusercontent.com/51970962/167593309-d497b289-25ab-44fd-97ad-d8b3faa0bfd5.png)
+![Gwahir](https://user-images.githubusercontent.com/51970962/168030371-7212abe3-f8be-4fef-9231-8b1be87abc2e.png)
 
 # Non published data analysis softwares
 carnisj/bcdi: v0.2.1
