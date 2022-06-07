@@ -13,7 +13,7 @@ These project support the analysis of data collected at synchrotrons. I believe 
 Being submitted.
 
 Here is a link to a poster that tries to present Gwaihir: 
-[Poster_Gwaihir.pdf](https://www.dsimonne.eu/Attachments/Poster_Gwaihir.pdf)
+[Poster_Gwaihir.pdf](https://www.dsimonne.eu/PhDAttachments/Poster_Gwaihir.pdf)
 ![Gwahir](https://user-images.githubusercontent.com/51970962/168030371-7212abe3-f8be-4fef-9231-8b1be87abc2e.png)
 
 # Non published data analysis softwares
@@ -23,7 +23,7 @@ carnisj/bcdi: v0.2.1
 https://zenodo.org/record/5741935
 
 Here is a link to a poster that tries to present the software, and most importantly, the international collaboration between different institutes: 
-[The_BCDI_collaboration_poster.pdf](https://www.dsimonne.eu/Attachments/The_BCDI_collaboration_poster.pdf)
+[The_BCDI_collaboration_poster.pdf](https://www.dsimonne.eu/PhDAttachments/The_BCDI_collaboration_poster.pdf)
 ![The_BCDI_collaboration_poster](https://user-images.githubusercontent.com/51970962/167593321-7f8c2f69-c3ef-4b3d-80ad-6fe2366e9be2.png)
 
 # Interesting references
