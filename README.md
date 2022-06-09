@@ -10,7 +10,10 @@ These project support the analysis of data collected at synchrotrons. I believe 
 * Thorondor: software for fast treatment and analysis of low-energy XAS dat. Simonne, D.H., Martini, A., Signorile, M., Piovano, A., Braglia, L., Torelli, P., Borfecchia, E. & Ricchiardi, G. (2020). J. Synchrotron Rad. 27, https://doi.org/10.1107/S1600577520011388.
 
 * Gwaihir : Jupyter Notebook graphical user interface for Bragg Coherent Diffraction Imaging. Simonne, D., Carnis, J., Atlan, C., & Chatelier, C. (n.d.). 
-Being submitted.
+accepted.
+
+D. Simonne, J. Carnis, C. Atlan, C. Chatelier, V. Favre-Nicolin, E. Zatterin, M. Dupraz, S. J. Leake, A. Resta, A. Coati and M.I. Richard
+
 
 Here is a link to a poster that tries to present Gwaihir: 
 [Poster_Gwaihir.pdf](https://www.dsimonne.eu/PhDAttachments/Poster_Gwaihir.pdf)
