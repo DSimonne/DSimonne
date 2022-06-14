@@ -14,7 +14,6 @@ accepted.
 
 D. Simonne, J. Carnis, C. Atlan, C. Chatelier, V. Favre-Nicolin, E. Zatterin, M. Dupraz, S. J. Leake, A. Resta, A. Coati and M.I. Richard
 
-
 Here is a link to a poster that tries to present Gwaihir: 
 [Poster_Gwaihir.pdf](https://www.dsimonne.eu/PhDAttachments/Poster_Gwaihir.pdf)
 ![Gwahir](https://user-images.githubusercontent.com/51970962/168030371-7212abe3-f8be-4fef-9231-8b1be87abc2e.png)
@@ -40,6 +39,9 @@ Here is a link to a poster that tries to present the software, and most importan
 
 ### X-ray Absorption Spectroscopy
 * Martini, A., Guda, S. A., Guda, A. A., Smolentsev, G., Algasov, A., Usoltsev, O., Soldatov, M. A., Bugaev, A., Rusalev, Y., Lamberti, C., & Soldatov, A. V. (2019). PyFitit: The software for quantitative analysis of XANES spectra using machine-learning algorithms. Computer Physics Communications, xxxx, 107064. https://doi.org/10.1016/j.cpc.2019.107064
+
+# FAIR
+https://view.genial.ly/5d64fbbd8352350fa3d22603
 
 <!--
 **DSimonne/DSimonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
