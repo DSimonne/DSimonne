@@ -9,12 +9,9 @@ These project support the analysis of data collected at synchrotrons. I believe 
 # Peer-reviewed publications about data analysis softwares
 * Thorondor: software for fast treatment and analysis of low-energy XAS dat. Simonne, D.H., Martini, A., Signorile, M., Piovano, A., Braglia, L., Torelli, P., Borfecchia, E. & Ricchiardi, G. (2020). J. Synchrotron Rad. 27, https://doi.org/10.1107/S1600577520011388.
 
-* Gwaihir : Jupyter Notebook graphical user interface for Bragg Coherent Diffraction Imaging. Simonne, D., Carnis, J., Atlan, C., & Chatelier, C. (n.d.). 
-accepted.
+* Gwaihir : Jupyter Notebook graphical user interface for Bragg Coherent Diffraction Imaging. Simonne, D., Carnis, J., Atlan, C., Chatelier, C., Favre-Nicolin, V., Dupraz, M., Leake, S.  J., Zatterin, E., Resta, A., Coati, A. & Richard, M.  I. (2022). J. Appl. Cryst. 55, https://doi.org/10.1107/S1600576722005854
 
-D. Simonne, J. Carnis, C. Atlan, C. Chatelier, V. Favre-Nicolin, E. Zatterin, M. Dupraz, S. J. Leake, A. Resta, A. Coati and M.I. Richard
-
-Here is a link to a poster that tries to present Gwaihir: 
+Here is a link to a poster that presents Gwaihir: 
 [Poster_Gwaihir.pdf](https://www.dsimonne.eu/PhDAttachments/Poster_Gwaihir.pdf)
 ![Gwahir](https://user-images.githubusercontent.com/51970962/168030371-7212abe3-f8be-4fef-9231-8b1be87abc2e.png)
 
@@ -24,7 +21,7 @@ carnisj/bcdi: v0.2.1
 > Jerome Carnis; clatlan; David Simonne; Steven Leake; Dmitry Dzhigaev; Kadatatlu Kishore; Maxime Dupraz; DeepSource Bot; Karthikeyan Singaravelan; Marie-Ingrid Richard
 https://zenodo.org/record/5741935
 
-Here is a link to a poster that tries to present the software, and most importantly, the international collaboration between different institutes: 
+Here is a link to a poster that presents the software, and most importantly, the international collaboration between different institutes: 
 [The_BCDI_collaboration_poster.pdf](https://www.dsimonne.eu/PhDAttachments/The_BCDI_collaboration_poster.pdf)
 ![The_BCDI_collaboration_poster](https://user-images.githubusercontent.com/51970962/167593321-7f8c2f69-c3ef-4b3d-80ad-6fe2366e9be2.png)
 
