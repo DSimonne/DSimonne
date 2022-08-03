@@ -40,6 +40,10 @@ Here is a link to a poster that presents the software, and most importantly, the
 # FAIR
 https://view.genial.ly/5d64fbbd8352350fa3d22603
 
+# Science and programming
+* https://www.nature.com/articles/d41586-018-07196-1
+* https://www.nature.com/articles/d41586-019-02046-0
+
 <!--
 **DSimonne/DSimonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
