@@ -38,8 +38,8 @@ Here is a link to a poster that presents the software, and most importantly, the
 * Martini, A., Guda, S. A., Guda, A. A., Smolentsev, G., Algasov, A., Usoltsev, O., Soldatov, M. A., Bugaev, A., Rusalev, Y., Lamberti, C., & Soldatov, A. V. (2019). PyFitit: The software for quantitative analysis of XANES spectra using machine-learning algorithms. Computer Physics Communications, xxxx, 107064. https://doi.org/10.1016/j.cpc.2019.107064
 
 # FAIR
-https://view.genial.ly/5d64fbbd8352350fa3d22603
-https://www.go-fair.org/fair-principles/
+* https://view.genial.ly/5d64fbbd8352350fa3d22603
+* https://www.go-fair.org/fair-principles/
 
 # Science and programming
 * https://www.nature.com/articles/d41586-018-07196-1
