@@ -8,6 +8,7 @@ This github regroups the different methods that I try to develop for interactive
 These project support the analysis of data collected at synchrotrons. I believe that developing data analysis methods that can be used remotely on dedicated clustering resources are the future of data analysis at such facilities, which is the work I try to develop.
 
 The broad public that synchrotrons receive also calls for the development of user-friendly Graphical User Interface.
+I also am a strong believer in open data and reproducible science, which is why I try to push for communities to work together.
 
 I also wrote my thesis in LaTeX, and still use Beamer for presentations. Feel free to ask me for beamer templates for MIT/Saclay. 
 
