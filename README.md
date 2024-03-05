@@ -1,10 +1,15 @@
 ### Hello world 👋
 
-I am a PhD student registered at the université Paris-Saclay, in the EDPIF doctoral school.
+I am a postdoctoral associate at MIT, in the Nuclear Science and Engineering group.
+I recently completed my PhD in Physics at the université Paris-Saclay (2024).
 
-This github regroups the methods that I try to develop for interactive and user-friendly data visualisation and analysis.
+This github regroups the different methods that I try to develop for interactive and user-friendly data visualisation and analysis.
 
-These project support the analysis of data collected at synchrotrons. I believe that developing data analysis methods that can be used remotely on dedicated clustering resources are the future of data analysis at such facilities.
+These project support the analysis of data collected at synchrotrons. I believe that developing data analysis methods that can be used remotely on dedicated clustering resources are the future of data analysis at such facilities, which is the work I try to develop.
+
+The broad public that synchrotrons receive also calls for the development of user-friendly Graphical User Interface.
+
+I also wrote my thesis in LaTeX, and still use Beamer for presentations. Feel free to ask me for beamer templates for MIT/Saclay. 
 
 # Peer-reviewed publications about data analysis softwares
 * Thorondor: software for fast treatment and analysis of low-energy XAS dat. Simonne, D.H., Martini, A., Signorile, M., Piovano, A., Braglia, L., Torelli, P., Borfecchia, E. & Ricchiardi, G. (2020). J. Synchrotron Rad. 27, https://doi.org/10.1107/S1600577520011388.
