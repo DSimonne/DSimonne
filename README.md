@@ -31,6 +31,13 @@ Here is a link to a poster that presents the software, and most importantly, the
 [The_BCDI_collaboration_poster.pdf](https://www.dsimonne.eu/PhDAttachments/The_BCDI_collaboration_poster.pdf)
 ![The_BCDI_collaboration_poster](https://user-images.githubusercontent.com/51970962/167593321-7f8c2f69-c3ef-4b3d-80ad-6fe2366e9be2.png)
 
+
+cdiutils
+
+> Clément Atlan, David Simonne, Corentin Chatelier, and Kyle Olson
+https://github.com/clatlan/cdiutils
+
+
 # Interesting references
 ### Neutron and X-ray reflectivity
 * Nelson, A. R. J., & Prescott, S. W. (2019). Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, 52, 193–200. https://doi.org/10.1107/S1600576718017296
