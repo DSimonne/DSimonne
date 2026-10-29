@@ -1,7 +1,6 @@
 ### Hello world 👋
 
-I am a postdoctoral associate at MIT, in the Nuclear Science and Engineering group.
-I recently completed my PhD in Physics at the université Paris-Saclay (2024).
+I recently moved to the ESRF as a post doctoral fellow on the ID01 beamline after completing 2 years of postdoctoral associate at MIT, in the Nuclear Science and Engineering group, and after completing my PhD in Physics at the université Paris-Saclay (2024).
 
 This github regroups the different methods that I try to develop for interactive and user-friendly data visualisation and analysis.
 
